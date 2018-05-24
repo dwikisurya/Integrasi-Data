@@ -1,0 +1,14 @@
+c:\users\tupir\documents\visual studio 2015\Projects\uasbb\uasbb\bin\Debug\uasbb.exe.config
+c:\users\tupir\documents\visual studio 2015\Projects\uasbb\uasbb\bin\Debug\uasbb.exe
+c:\users\tupir\documents\visual studio 2015\Projects\uasbb\uasbb\bin\Debug\uasbb.pdb
+c:\users\tupir\documents\visual studio 2015\Projects\uasbb\uasbb\bin\Debug\uasbb.xml
+c:\users\tupir\documents\visual studio 2015\Projects\uasbb\uasbb\obj\Debug\uasbb.vbprojResolveAssemblyReference.cache
+c:\users\tupir\documents\visual studio 2015\Projects\uasbb\uasbb\obj\Debug\uasbb.Form1.resources
+c:\users\tupir\documents\visual studio 2015\Projects\uasbb\uasbb\obj\Debug\uasbb.Resources.resources
+c:\users\tupir\documents\visual studio 2015\Projects\uasbb\uasbb\obj\Debug\uasbb.vbproj.GenerateResource.Cache
+c:\users\tupir\documents\visual studio 2015\Projects\uasbb\uasbb\obj\Debug\uasbb.exe
+c:\users\tupir\documents\visual studio 2015\Projects\uasbb\uasbb\obj\Debug\uasbb.xml
+c:\users\tupir\documents\visual studio 2015\Projects\uasbb\uasbb\obj\Debug\uasbb.pdb
+C:\Users\tupir\Documents\Visual Studio 2015\Projects\uasbb\uasbb\bin\Debug\MaterialSkin.dll
+C:\Users\tupir\Documents\Visual Studio 2015\Projects\uasbb\uasbb\obj\Debug\uasbb.Form2.resources
+C:\Users\tupir\documents\visual studio 2015\Projects\uasbb\uasbb\obj\Debug\uasbb.Form3.resources
